@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @aliilteris
+- 👀 I’m interested in Python and [https://en.wikipedia.org/wiki/Cura_(instrument)](Cura)
